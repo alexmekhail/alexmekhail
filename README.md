@@ -154,19 +154,12 @@ I'm continuously improving my software engineering skills, with a particular foc
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmekhail&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmekhail&layout=compact&theme=transparent)
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities to collaborate, learn from other engineers, and contribute to impactful software projects.
 
-- 🌐 [Portfolio Website](https://alexmekhail.github.io/portfolio/)
+- 🌐 [Portfolio Website](https://alexmekhail.dev)
 - 💻 [GitHub](https://github.com/alexmekhail)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexmekhail)
 
 Thanks for visiting my profile!
